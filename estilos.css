@@ -1,0 +1,12 @@
+body{
+    background-color: pink;
+}
+
+h1{
+    text-align: center;
+}
+div{
+    padding-top: 50px;
+    text-align: center;
+    font-size: 30px;
+}
